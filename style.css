@@ -1,0 +1,102 @@
+* { box-sizing: border-box; margin-top: 0; }
+
+body{
+  font-family: 'Poppins', sans-serif;
+  color: $black;
+  font-size: 1.1rem;
+}
+
+.logo {
+  background-color: #444;
+  background-blend-mode: multiply;
+  background-size: cover;
+  height: 100vh;
+  padding: 1em;
+  color: $white;
+  
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.c1 {
+  padding: 12vh 0;
+  text-align: center;
+  display: flex;
+  justify-content: space-around;
+  flex-direction: column;
+}
+
+
+ .c1 {
+    flex-direction: row;
+  }
+
+
+.c2 {
+  flex-basis: 30%;
+}
+
+.type {
+ 
+ background-size: cover;
+  padding: 10vh 0;
+  color: $white;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.texts {
+  flex-basis: 100%;
+  padding: 0 2em;
+ 
+  
+}
+
+
+.header {
+  background-color: gray;
+background-size: 50px;
+  height: 25vh;
+  padding: 1em;
+  color: $white;
+}
+.lists {
+  background-color: blue;
+background-size: 100px;
+  height: 15vh;
+  padding: 1em;
+  color: $white;
+}
+
+.flex- {
+  display: flex;
+  flex-direction: row;
+  background-color:white;
+}
+
+.flex- > div {
+  background-color: lightblue;
+  width: 300px;
+  margin: 10px;
+  height:20vh;
+  text-align: center;
+  line-height: 75px;
+  font-size: 30px;
+}
+.c3{
+	height:100vh;
+	color:gray;
+	width:300px;
+	background-color:pink;
+	
+}
+
+
+Fin de la discussion
+Écrivez un message...
+
+
+
+Plus d’actualités chargées.
